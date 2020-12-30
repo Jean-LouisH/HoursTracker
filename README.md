@@ -1,2 +1,1 @@
-# TrainingHoursTracker
- Tracks Cumulative Training Hours for Each Listed Skill.
+# Training Hours Tracker
