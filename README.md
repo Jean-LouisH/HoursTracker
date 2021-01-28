@@ -1,1 +1,2 @@
-# Training Hours Tracker
+# Hours Tracker
+
